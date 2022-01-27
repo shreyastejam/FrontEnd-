@@ -1,0 +1,12 @@
+In this paper, we 
+have tried to
+implement a singing voice 
+that converts plain text into 
+a song which is done 
+by synchronization of a midi file
+or the music with the
+text. The majority of MIDI files 
+are arranged as several
+tracks and contain data that 
+can be regarded as a 
+symbolic representation of music 
